@@ -1,0 +1,2 @@
+# Samandar-Mahmudov
+Python Developer
